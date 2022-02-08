@@ -1,4 +1,3 @@
 # odin-recipes
-First project in foundations of the Odin project
-
+My first project in the foundations portion of the Odin project.
 In this project I will aim to demonstrate some basic knowledge of both git and html.
