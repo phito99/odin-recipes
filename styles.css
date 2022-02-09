@@ -1,0 +1,14 @@
+* {
+    background-color: beige;
+    color: gray;
+}
+
+.headers {
+    font-size: large;
+    color: navy;
+}
+
+.lists {
+    font-size: small;
+    color: cyan;
+}
